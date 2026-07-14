@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./images/banner.png" alt="Amit Parmar Banner" width="100%">
+</p>
 --------------------------------------------------------
 
 Hi 👋 I'm Amit Parmar
