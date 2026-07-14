@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-banner.png" alt="Amit Parmar Banner" width="100%">
+  <img src="./images/profile-banner-v2.png" alt="Amit Parmar Banner" width="100%">
 </p>
 --------------------------------------------------------
 
