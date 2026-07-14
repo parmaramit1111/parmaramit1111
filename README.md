@@ -1,70 +1,92 @@
 <p align="center">
   <img src="./images/profile-banner-v2.png" alt="Amit Parmar Banner" width="100%">
 </p>
---------------------------------------------------------
 
-Hi 👋 I'm Amit Parmar
+# Hi 👋 I'm Amit Parmar
 
-Software Architect | Healthcare Technology Consultant
+### Senior Software Engineer • Enterprise Solution Designer
 
-20+ Years Building Enterprise Software
+Building scalable enterprise applications for over **20 years** with expertise in backend development, cloud technologies, system integration, and software architecture.
 
-.NET • C# • AWS • Azure • AI • PostgreSQL
+---
 
---------------------------------------------------------
+## 🚀 Core Expertise
 
-What I Do
+- Enterprise Application Development
+- Solution Design & Architecture
+- Healthcare Software
+- Cloud-Native Applications
+- Performance Optimization
+- API & System Integration
+- AI-enabled Solutions
 
-✔ Enterprise Application Architecture
+---
 
-✔ Healthcare Technology
+## 💻 Primary Tech Stack
 
-✔ Cloud Solutions
+**Backend**
 
-✔ Performance Optimization
+- .NET / ASP.NET Core
+- C#
+- Python
+- Node.js
+- PHP
 
-✔ System Integration
+**Frontend**
 
-✔ AI-powered Applications
+- React
+- JavaScript
+- TypeScript
 
---------------------------------------------------------
+**Cloud & DevOps**
 
-Current Focus
+- AWS
+- Azure
+- Docker
+- Git
 
-• AI for Enterprise Applications
+**Database**
 
-• Cloud Native .NET
+- SQL Server
+- PostgreSQL
+- MySQL
+- Redis
 
-• Software Architecture
+---
 
-• Performance Engineering
+## 🌱 Currently Exploring
 
---------------------------------------------------------
+- AI Coding Agents
+- Claude Code
+- Ollama
+- Hugging Face
+- Enterprise AI Integration
+- Modern Software Architecture
 
-Engineering Principles
+---
 
-- Build for maintainability
-- Keep architecture simple
-- Measure before optimizing
-- Security by design
-- Continuous learning
+## 🎯 Engineering Philosophy
 
---------------------------------------------------------
+- Build maintainable software
+- Design before coding
+- Performance matters
+- Keep solutions simple
+- Never stop learning
 
-Featured Projects
+---
 
-(coming soon)
+## 📚 Featured Projects
 
---------------------------------------------------------
+🚧 Coming Soon
 
-Technical Articles
+---
 
-(coming soon)
+## 📝 Engineering Notes
 
---------------------------------------------------------
+🚧 Coming Soon
 
-Let's Connect
+---
 
-LinkedIn: https://www.linkedin.com/in/anparmar/
+## 🤝 Let's Connect
 
---------------------------------------------------------
+- LinkedIn: https://www.linkedin.com/in/anparmar/
